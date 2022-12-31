@@ -2,7 +2,7 @@
 - I am deeply curious in being a full-stack developer 💪
 - I am humbled to learn all there is about creating the best applications out there.
 - I am willing to give feedback on your projects. Let me know where I can improve, too.
-- Contained within are my greatest works in development.
+- Contained within are my greatest works in development, but remember, my best is yet to come! 
 
 <!---
 SamuelCasellas/SamuelCasellas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
